@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">New</string>
+    <string name="category_name">Categories</string>
+    <string name="Menu_name">Menu List</string>
+    <string name="Order_name">Your Order</string>
+    <string name="reqstaf">Request Staff</string>
+    <string name="PlcOrdr">Place Order</string>
+    <string name="PN">Payment</string>
+
+
+
+</resources>

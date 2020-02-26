@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "166440136822",
+    "firebase_url": "https://newmad-411e0.firebaseio.com",
+    "project_id": "newmad-411e0",
+    "storage_bucket": "newmad-411e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166440136822:android:06df92ac42be24c9",
+        "android_client_info": {
+          "package_name": "com.example.simran.anew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166440136822-l5qee8s4nle3a1lriqktr6bkfl4tou5k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.simran.anew",
+            "certificate_hash": "125e91f29a5b627eb17b0bf7a9fbc6454c0b1dcf"
+          }
+        },
+        {
+          "client_id": "166440136822-gu4rm1dh50r6ufscn1dlktire0lqlc1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Ywnf1WmPz3d7FpA92EvaQBkXsL_ktX0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166440136822-gu4rm1dh50r6ufscn1dlktire0lqlc1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
